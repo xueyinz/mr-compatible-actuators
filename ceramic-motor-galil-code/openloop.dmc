@@ -1,0 +1,30 @@
+#AUTO
+BP
+MO
+TM 125
+BR -1
+KP 0
+KD 0
+KI 0
+K1 0
+K2 0
+K3 0
+DP 0
+SH
+#B
+IPA = 50
+ZPA = 4.5
+WT 5000
+ZPA = 0.0
+DP 0
+DE 0
+WT 1000
+IPA = -50
+ZNA = -4.5
+WT 5000
+ZNA = 0.0
+DP 0
+DE 0
+WT 1000
+JP #B
+EN
